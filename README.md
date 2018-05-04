@@ -1,2 +1,11 @@
-# sqlite-speed-notebooks
+# Sqlite-speed notebooks
+
 Notebooks to generate the sqlite-speed analytics
+
+### Requirement
+
+`pip install dataset`
+
+### Usage
+
+Replace `lake/stats.sqlite` and `lake.sqlite3` by your data obtained after running the tests and run the notebooks
