@@ -4,7 +4,7 @@ Notebooks to generate the sqlite-speed analytics
 
 ### Requirement
 
-`pip install dataset`
+`pip install dataswim`
 
 ### Usage
 
